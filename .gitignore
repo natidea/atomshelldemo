@@ -154,3 +154,8 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/BasicApp/BasicApp/node_modules
+/BasicApp/BasicApp/app.js.map
+/BasicApp/BasicApp/app.js
+/BasicApp/BasicApp/amdMain.js.map
+/BasicApp/BasicApp/amdMain.js
